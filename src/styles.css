@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  background-color: #f3efef;
+}
+
+h1 {
+  font-family: Roboto-Black;
+}
+h2 {
+  font-family: Roboto-Bold;
+  color: #6495ed;
+}
+p {
+  font-family: Roboto-Regular;
+}
+
+.bg-header {
+  background-image: url("./assets/img/bg-banner.jpg") !important;
+  background-color: gray !important;
+  background-size: cover;
+}
